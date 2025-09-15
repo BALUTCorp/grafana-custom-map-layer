@@ -1,5 +1,7 @@
 # Hướng dẫn SSH và Upload File GeoJSON lên EC2 Linux cho Grafana
 
+![Ví dụ minh họa](example.png)
+
 ## Tổng quan
 
 Tài liệu này hướng dẫn cách kết nối SSH vào EC2 Linux instance và upload các file GeoJSON vào thư mục maps của Grafana để hiển thị bản đồ tùy chỉnh.
